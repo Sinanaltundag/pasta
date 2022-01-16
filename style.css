@@ -13,7 +13,7 @@ body {
 }
 img {
   text-align: center;
-  
+
   white-space: nowrap;
 }
 #banner {
@@ -33,13 +33,13 @@ h2 {
   font-size: 2rem;
   margin: 1rem;
 }
-p{
-    padding-bottom: 0.5rem;
+p {
+  padding-bottom: 0.5rem;
 }
-article{
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 1.5rem;
-    font-weight: bold;
+article {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 nav {
   background: #f4f4f4;
@@ -48,7 +48,6 @@ nav {
   top: 0;
   left: 0;
   z-index: 1;
-  
 }
 nav ul {
   white-space: nowrap;
@@ -88,42 +87,41 @@ nav li {
   width: 90%;
   height: 300px;
 }
-.images img:hover{
-    opacity: 0.5;
+.images img:hover {
+  opacity: 0.5;
 }
-#feedback{
-    resize: none;
-    width:100%;
+#feedback {
+  resize: none;
+  width: 100%;
 }
-section{
-    width: 600px;
-    margin: auto;
+section {
+  width: 600px;
+  margin: auto;
 }
-#bizeulasin{
-    font-size: 1.2rem;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+#bizeulasin {
+  font-size: 1.2rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
-footer{
-    padding: 1rem;
-    background-color: chocolate;
-    text-align: right;
-    
+footer {
+  padding: 1rem;
+  background-color: chocolate;
+  text-align: right;
 }
-label{
-    font-size: 1.2rem;
-    
+label {
+  font-size: 1.2rem;
 }
-#submit, #email{
-    padding:1rem ;
-    border-radius: 40px;
-    border: none;
-    margin: 0.5rem;
-    font-size: 1.2rem;
-    border: groove transparent;
+#submit,
+#email {
+  padding: 1rem;
+  border-radius: 40px;
+  border: none;
+  margin: 0.5rem;
+  font-size: 1.2rem;
+  border: groove transparent;
 }
-#submit{
-    background-color: chocolate;
+#submit {
+  background-color: chocolate;
 }
-#submit:hover{
-border: groove;
+#submit:hover {
+  border: groove;
 }
